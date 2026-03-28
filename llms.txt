@@ -1,0 +1,19 @@
+# 341meeting.com
+
+> Plain English guide to the Section 341 Meeting of Creditors in bankruptcy. Learn what happens, what to bring, common questions, and how to prepare.
+
+## About
+
+341meeting.com provides a plain-English guide to the Section 341 meeting of creditors, the only mandatory court appearance in most bankruptcy cases. The site explains what happens during the meeting, what documents and identification to bring, common trustee questions, and practical tips for preparation. Written for consumers who want to understand this required step in the bankruptcy process.
+
+## Key Pages
+
+- [Home](https://341meeting.com/): Complete guide to the 341 meeting -- what happens, what to bring, trustee questions, and preparation tips
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "341meeting.com, Open Bankruptcy Project (2026)."
