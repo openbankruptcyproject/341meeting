@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta content="noindex, nofollow" name="robots"/>
-<meta content="0; url=https://341meeting.org/document-preparation.html" http-equiv="refresh"/>
+<meta content="0; url=https://341meeting.org/what-if-creditor-shows.html" http-equiv="refresh"/>
 <script>window.location.replace('https://341meeting.org' + window.location.pathname.replace(/^\/[^\/]+/, ''));</script>
 <!-- Google tag (gtag.js) -->
 <!-- BTN:GA4:START -->
@@ -22,13 +22,13 @@
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Documents Needed for 341 Meeting: Complete Checklist</title>
-<meta content="Complete checklist of documents needed for your 341 meeting of creditors. ID, Social Security card, tax returns, pay stubs, bank statements,..." name="description"/>
-<link href="https://341meeting.org/document-preparation.html" rel="canonical"/>
-<meta content="Documents Needed for 341 Meeting: Complete Checklist" property="og:title"/>
-<meta content="Complete checklist of documents needed for your 341 meeting of creditors. ID, Social Security card, tax returns, pay stubs, bank statements,..." property="og:description"/>
+<title>Creditor Shows Up at 341 Meeting: What to Expect</title>
+<meta content="Learn about creditor shows up at 341 meeting: what to expect | 341meeting.com in our free 2026 guide. Clear explanations, real data, and pra..." name="description"/>
+<link href="https://341meeting.org/what-if-creditor-shows.html" rel="canonical"/>
+<meta content="Creditor Shows Up at 341 Meeting: What to Expect" property="og:title"/>
+<meta content="Learn about creditor shows up at 341 meeting: what to expect | 341meeting.com in our free 2026 guide. Clear explanations, real data, and pra..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://341meeting.org/document-preparation.html" property="og:url"/>
+<meta content="https://341meeting.org/what-if-creditor-shows.html" property="og:url"/>
 <meta content="341meeting.com" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
@@ -83,9 +83,6 @@
   .card h3 { margin-top: 0; color: var(--green); }
   .highlight { color: var(--green); font-weight: 600; }
   .warning { color: var(--red); font-weight: 600; }
-  .checklist { list-style: none; margin-left: 0; }
-  .checklist li { padding-left: 1.5rem; position: relative; margin-bottom: 0.6rem; }
-  .checklist li::before { content: "\2610"; position: absolute; left: 0; color: var(--accent); }
   .internal-links {
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 8px; padding: 1.25rem 1.5rem; margin: 2rem 0;
@@ -124,18 +121,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What documents do I need for my 341 meeting?",
+      "name": "What happens if a creditor shows up at my 341 meeting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You need a government-issued photo ID (driver's license, state ID, or passport), proof of your Social Security number (Social Security card, W-2, or 1099 showing the full number), your most recent federal tax return, 60 days of pay stubs prior to filing, 6 months of bank statements for all accounts, and a copy of your bankruptcy petition and schedules. Some trustees require additional documents depending on your case."
+        "text": "If a creditor attends your 341 meeting of creditors, they have the right to ask you questions under oath. This is rare in simple consumer cases but does happen, especially with mortgage lenders, car loan companies, and creditors who suspect fraud. The trustee controls the meeting and will not allow abusive or irrelevant questioning. Answer honestly and let your attorney handle any objections."
       }
     },
     {
       "@type": "Question",
-      "name": "What happens if I forget to bring documents to my 341 meeting?",
+      "name": "How often do creditors actually attend 341 meetings?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you forget a required document, the trustee will likely continue your meeting to a later date so you can provide it. This is not ideal - it delays your case and requires you to attend a second meeting. If you realize you are missing something before the meeting, contact your attorney immediately."
+        "text": "In straightforward consumer Chapter 7 and Chapter 13 cases, creditors attend less than 5% of the time. When they do appear, it is usually a secured creditor (mortgage company or auto lender) with specific questions about the collateral, or a creditor who suspects fraud or wants to challenge the discharge of their particular debt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a creditor be hostile at my 341 meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The trustee controls the meeting and will not allow abusive, hostile, or irrelevant questions. Creditors must ask questions related to the bankruptcy case - they cannot berate you, argue with you, or demand immediate payment. If a creditor crosses the line, your attorney can object and the trustee will intervene."
       }
     }
   ]
@@ -150,8 +155,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Documents Needed for Your 341 Meeting",
-      "description": "Complete checklist of documents needed for your 341 meeting of creditors. ID, Social Security card, tax returns, pay stubs, bank statements, and more.",
+      "headline": "What If a Creditor Shows Up at Your 341 Meeting?",
+      "description": "What happens when a creditor shows up at your 341 meeting of creditors. What they can ask, how to respond, and why you should not panic.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -163,7 +168,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://341meeting.com/document-preparation.html"
+      "mainEntityOfPage": "https://341meeting.com/what-if-creditor-shows.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -183,15 +188,71 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Documents Needed for Your 341 Meeting",
-          "item": "https://341meeting.com/document-preparation.html"
+          "name": "What If a Creditor Shows Up at Your 341 Meeting?",
+          "item": "https://341meeting.com/what-if-creditor-shows.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "What If a Creditor Shows Up at Your 341 Meeting?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": ":root {\n    --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3;\n    --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149;\n  }\n  * { margin: 0; padding: 0; box-"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Creditors who suspect fraud - a creditor who believes you incurred debt with no intention of repaying, made luxury purchases shortly before filing, or misrepresented your finances on a loan applicati"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Former business partners or personal creditors - someone with a personal stake who wants to challenge the dischargeability of a specific debt"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "The U.S. Trustee's office - not technically a creditor, but they may attend if they have concerns about abuse, fraud, or the accuracy of your schedules"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "When did you last make a payment on our account?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "What happened to the property securing our loan?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Do you intend to reaffirm this debt or surrender the collateral?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Are you current on post-petition payments?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Did you use our credit card to make purchases after you decided to file bankruptcy?"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Did you take cash advances on our account in the months before filing?"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Documents Needed for Your 341 Meeting",
-      "url": "https://341meeting.com/document-preparation.html",
+      "name": "What If a Creditor Shows Up at Your 341 Meeting?",
+      "url": "https://341meeting.com/what-if-creditor-shows.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -203,27 +264,6 @@
       }
     }
   ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
 }
 </script>
 </head>
@@ -239,96 +279,99 @@
 <a href="/questions-they-ask.html">Questions Asked</a>
 <a href="/trustee-questions.html">Trustee Questions</a>
 <a href="/documents-to-bring.html">Documents</a>
-<a class="active" href="/document-preparation.html">Document Prep</a>
+<a href="/document-preparation.html">Document Prep</a>
 <a href="/zoom-vs-phone.html">Zoom &amp; Phone</a>
 <a href="/what-if-i-miss.html">What If I Miss It?</a>
-<a href="/what-if-creditor-shows.html">Creditor Shows Up</a>
+<a class="active" href="/what-if-creditor-shows.html">Creditor Shows Up</a>
 </div>
 </div>
 </nav>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://341meeting.com">341 Meeting of Creditors</a><span class="separator">›</span><span>Documents Needed for Your 341 Meeting</span></nav>
-<h1>Documents Needed for Your 341 Meeting</h1>
-<p class="subtitle">A printable checklist so you do not forget anything on meeting day</p>
-<p>The <a href="/">341 meeting of creditors</a> requires specific documents. If you show up without them, the trustee will continue your meeting to a later date - delaying your case and requiring a second appearance. This checklist covers everything you need.</p>
-<h2>Required Documents - Every Case</h2>
-<p>These documents are required in virtually every bankruptcy district in the country. Bring originals, not copies, for identity verification.</p>
-<div class="card">
-<h3>Identity Documents (Bring Originals)</h3>
-<ul class="checklist">
-<li><strong>Government-issued photo ID</strong> - driver's license, state ID card, U.S. passport, or military ID. It must be current (not expired) and show your photograph.</li>
-<li><strong>Proof of Social Security number</strong> - Social Security card, W-2, or 1099 form that shows your full Social Security number. A partial number is not sufficient.</li>
-</ul>
-</div>
-<div class="card">
-<h3>Financial Documents</h3>
-<ul class="checklist">
-<li><strong>Most recent federal tax return</strong> - the full return, including all schedules and W-2s. Most trustees want the return for the most recently completed tax year. If you have not filed, you may need to file before the meeting.</li>
-<li><strong>Pay stubs for 60 days before filing</strong> - all pay stubs from all employers for the 60-day period immediately before your bankruptcy petition date. Under 11 U.S.C. Section 521(a)(1)(B)(iv), these must be provided to the trustee at least 7 days before the meeting.</li>
-<li><strong>Bank statements - 6 months</strong> - statements for all bank accounts (checking, savings, money market) for the 6 months before filing. Some trustees require statements through the month of the meeting.</li>
-</ul>
-</div>
-<h2>Commonly Required Additional Documents</h2>
-<p>Depending on your district, your trustee, and the specifics of your case, you may also need:</p>
-<div class="card">
-<h3>Property and Asset Documents</h3>
-<ul class="checklist">
-<li><strong>Vehicle titles or registration</strong> - proof of ownership for all vehicles listed on your schedules</li>
-<li><strong>Real estate deed or mortgage statement</strong> - if you own a home, the trustee may want to see the deed, most recent mortgage statement, or property tax assessment</li>
-<li><strong>Retirement account statements</strong> - most recent statements for any 401(k), IRA, pension, or other retirement accounts</li>
-<li><strong>Life insurance policies</strong> - if any policy has cash value, bring the policy and most recent statement</li>
-</ul>
-</div>
-<div class="card">
-<h3>Income Verification</h3>
-<ul class="checklist">
-<li><strong>Social Security or disability award letter</strong> - if you receive government benefits as a source of income</li>
-<li><strong>Unemployment compensation records</strong> - if you are receiving or recently received unemployment benefits</li>
-<li><strong>Business income records</strong> - if self-employed, bring profit and loss statements, 1099s, and business bank statements</li>
-<li><strong>Rental income documentation</strong> - leases or receipts if you receive rental income</li>
-</ul>
-</div>
-<div class="card">
-<h3>Legal Documents</h3>
-<ul class="checklist">
-<li><strong>Copy of your bankruptcy petition and schedules</strong> - review these before the meeting so you can answer questions about them</li>
-<li><strong><a href="https://bankruptcyfreshstart.org/" title="credit counseling">Credit counseling certificate</a></strong> - proof you completed the required pre-filing <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> under 11 U.S.C. <a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(h)</li>
-<li><strong>Divorce decree or separation agreement</strong> - if applicable, especially if domestic support obligations are involved</li>
-<li><strong>Prior bankruptcy records</strong> - if you have filed bankruptcy before, bring the case number and filing date of any prior cases</li>
-</ul>
-</div>
-<h2>What If You Are Missing a Document?</h2>
-<p>If you realize before the meeting that you are missing something, contact your attorney immediately. They may be able to:</p>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://341meeting.com">341 Meeting of Creditors</a><span class="separator">›</span><span>What If a Creditor Shows Up at Your 341 Meeting?</span></nav>
+<h1>What If a Creditor Shows Up at Your 341 Meeting?</h1>
+<p class="subtitle">It is rare, but it happens. Here is what to expect and how to handle it.</p>
+<p>The <a href="/">341 meeting of creditors</a> gets its name because creditors have the legal right to attend and ask questions. But the name is misleading - in most consumer bankruptcy cases, no creditors show up at all. When they do, it is usually one creditor with a specific concern, not a room full of angry people.</p>
+<p>This page explains when creditors attend, what they can ask, and how to respond if it happens to you.</p>
+<h2>How Often Do Creditors Actually Attend?</h2>
+<p>In straightforward consumer cases - both <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> - creditors attend <span class="highlight">less than 5% of the time</span>. The vast majority of 341 meetings involve only you, the trustee, and your attorney.</p>
+<p>When creditors do appear, it is almost always one of these situations:</p>
 <ul>
-<li>Request a continuance before the meeting date</li>
-<li>Obtain the document from the court or another source</li>
-<li>Advise you on whether the trustee is likely to require it in your specific case</li>
+<li><strong>Secured creditors</strong> - mortgage companies or auto lenders who want to discuss the collateral, confirm your intentions (reaffirm, surrender, or redeem), or ask about the property's condition</li>
+<li><strong>Creditors who suspect fraud</strong> - a creditor who believes you incurred debt with no intention of repaying, made luxury purchases shortly before filing, or misrepresented your finances on a loan application</li>
+<li><strong>Former business partners or personal creditors</strong> - someone with a personal stake who wants to challenge the dischargeability of a specific debt</li>
+<li><strong>The U.S. Trustee's office</strong> - not technically a creditor, but they may attend if they have concerns about abuse, fraud, or the accuracy of your schedules</li>
 </ul>
-<p>If you arrive at the meeting without a required document, the trustee will typically continue the meeting to a later date. This means you will need to attend a second meeting, which delays your case by 2 to 4 weeks in most districts.</p>
-<h2>Virtual Meeting Document Tips</h2>
-<p>If your <a href="/zoom-vs-phone.html">341 meeting is by Zoom or phone</a>, document requirements work slightly differently:</p>
+<h2>What Can Creditors Ask?</h2>
+<p>Creditors who attend the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> can ask you questions under oath. However, they are limited to questions relevant to the bankruptcy case. The trustee controls the meeting and will intervene if questions become irrelevant, harassing, or abusive.</p>
+<div class="card">
+<h3>Common Creditor Questions</h3>
 <ul>
-<li>Many trustees require you to email scans or photos of your ID and Social Security proof before the meeting</li>
-<li>Some districts have a specific upload portal for pre-meeting documents</li>
-<li>Have all documents accessible on your computer so you can share your screen if asked</li>
-<li>Check your court's local procedures - they vary by district</li>
+<li>When did you last make a payment on our account?</li>
+<li>What happened to the property securing our loan?</li>
+<li>Do you intend to reaffirm this debt or surrender the collateral?</li>
+<li>Are you current on post-petition payments?</li>
+<li>Did you use our credit card to make purchases after you decided to file bankruptcy?</li>
+<li>Did you take cash advances on our account in the months before filing?</li>
+<li>Is the asset description on your schedules accurate?</li>
+</ul>
+</div>
+<h2>What Creditors Cannot Do</h2>
+<div class="card">
+<h3>Off-Limits Behavior</h3>
+<ul>
+<li><span class="warning">Cannot demand payment.</span> The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under 11 U.S.C. <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a> prohibits collection activity once you file. A creditor cannot demand money at the meeting.</li>
+<li><span class="warning">Cannot be abusive or hostile.</span> The trustee runs the meeting and will shut down inappropriate behavior.</li>
+<li><span class="warning">Cannot ask irrelevant questions.</span> Questions must relate to the bankruptcy case - your debts, assets, income, or the specific claim.</li>
+<li><span class="warning">Cannot cross-examine you like a trial.</span> The <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> is not a courtroom proceeding. There are no formal rules of evidence. The format is conversational, not adversarial.</li>
+<li><span class="warning">Cannot contact you outside the meeting</span> for collection purposes while the stay is in effect.</li>
+</ul>
+</div>
+<h2>How to Respond</h2>
+<p>If a creditor asks you questions at your <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>, follow these guidelines:</p>
+<ol>
+<li><strong>Stay calm.</strong> A creditor showing up is unusual but not a crisis. It does not mean your case is in trouble.</li>
+<li><strong>Answer honestly.</strong> You are under oath. The same rules apply whether the trustee or a creditor is asking.</li>
+<li><strong>Be brief.</strong> Answer the specific question asked. Do not volunteer extra information or try to explain your entire financial history.</li>
+<li><strong>Let your attorney help.</strong> Your lawyer can object to improper questions, ask for clarification, or advise you not to answer if the question is irrelevant or asks for privileged information.</li>
+<li><strong>Do not argue.</strong> If a creditor says something you disagree with, do not argue at the meeting. The meeting is for questions and answers, not disputes. Disputes are resolved through formal motions filed with the court.</li>
+<li><strong>Do not apologize or promise anything.</strong> Do not promise to pay a creditor or apologize for filing bankruptcy. You have a legal right to file, and emotional responses can create legal complications.</li>
+</ol>
+<h2>When a Creditor Appearance Is More Likely</h2>
+<p>Certain factors increase the likelihood that a creditor will attend your meeting:</p>
+<ul>
+<li><strong>Recent large purchases on credit</strong> - luxury goods over $725 within 90 days of filing, or cash advances over $1,000 within 70 days of filing (current thresholds under 11 U.S.C. <a href="https://523a.org" rel="noopener" target="_blank" title="Section 523 Nondischargeable Debts - Open Bankruptcy Project">Section 523</a>(a)(2)(C))</li>
+<li><strong>Disputed debts</strong> - if you have an ongoing dispute with a creditor about the amount or validity of a debt</li>
+<li><strong>Business debts</strong> - creditors of a failed business are more likely to attend than consumer credit card companies</li>
+<li><strong>High-value secured property</strong> - if you have a large mortgage or expensive vehicle, the secured lender may send an attorney</li>
+<li><strong>Prior litigation with a creditor</strong> - if a creditor was already suing you before you filed, their attorney may attend</li>
+</ul>
+<h2>What Happens After</h2>
+<p>A creditor attending the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> does not change the basic trajectory of your case. After the meeting:</p>
+<ul>
+<li>If the creditor has concerns about fraud or dischargeability, they have <strong>60 days from the first date set for the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a></strong> to file a formal complaint (adversary proceeding) under Federal Rule of Bankruptcy Procedure 4004(a)</li>
+<li>If no complaint is filed within that deadline, the debt is discharged like any other</li>
+<li>The creditor's attendance alone does not create any additional obligation for you</li>
 </ul>
 <h2>Frequently Asked Questions</h2>
 <div class="card">
-<h3>What documents do I need for my 341 meeting?</h3>
-<p>At minimum: a government-issued photo ID, proof of your Social Security number, your most recent tax return, 60 days of pay stubs, 6 months of bank statements, and a copy of your petition. Many trustees also require vehicle titles, mortgage statements, and retirement account statements depending on your case.</p>
+<h3>What happens if a creditor shows up at my 341 meeting?</h3>
+<p>They have the right to ask you questions under oath. The trustee controls the meeting and will not allow abusive or irrelevant questioning. Answer honestly, be brief, and let your attorney handle any issues. Creditor attendance is rare in consumer cases and does not mean your case is in trouble.</p>
 </div>
 <div class="card">
-<h3>What happens if I forget to bring documents?</h3>
-<p>The trustee will likely continue your meeting to a later date. This delays your case. If you realize you are missing something, contact your attorney before the meeting.</p>
+<h3>How often do creditors attend 341 meetings?</h3>
+<p>In straightforward consumer cases, less than 5% of the time. When they do appear, it is usually a secured creditor (mortgage company or auto lender) or a creditor with a specific fraud concern.</p>
+</div>
+<div class="card">
+<h3>Can a creditor be hostile at my meeting?</h3>
+<p>The trustee controls the meeting and will not allow hostile, abusive, or irrelevant questions. If a creditor crosses the line, your attorney can object and the trustee will intervene.</p>
 </div>
 <div class="internal-links">
-<h3>Meeting Preparation</h3>
+<h3>More 341 Meeting Guides</h3>
 <ul>
 <li><a href="/trustee-questions.html">Complete list of trustee questions</a></li>
-<li><a href="/what-to-expect.html">What to expect at your 341 meeting</a></li>
-<li><a href="/what-if-creditor-shows.html">What if a creditor shows up at your meeting</a></li>
-<li><a href="https://341meeting.org/" rel="noopener">341meeting.org - More meeting of creditors resources</a></li>
+<li><a href="/document-preparation.html">Document preparation checklist</a></li>
+<li><a href="/what-to-expect.html">What to expect at your meeting</a></li>
+<li><a href="https://341meeting.org/" rel="noopener">341meeting.org - Additional resources</a></li>
 <li><a href="https://howtofilebankruptcy.org/" rel="noopener">How to file bankruptcy</a></li>
 <li><a href="https://prosedebtors.org/" rel="noopener">Pro se debtor resources</a></li>
 </ul>
@@ -345,9 +388,6 @@
 <li><a href="https://paydayloandebt.org" style="color:#58a6ff;text-decoration:none">Payday Loan Debt in Bankruptcy</a></li>
 <li><a href="https://whathappensinbankruptcy.com" style="color:#58a6ff;text-decoration:none">What Happens in Bankruptcy?</a></li>
 </ul>
-</div>
-<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
-<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
 </div>
 </main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -423,7 +463,7 @@
 </form>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
@@ -443,7 +483,7 @@
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=341meeting&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=341meeting&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=341meeting&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=341meeting&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
 </ul>
 </div>
 </body>

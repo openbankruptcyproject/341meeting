@@ -185,27 +185,6 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Section 341 Meeting of Creditors", "description": "Plain English guide to the Section 341 Meeting of Creditors in bankruptcy. Learn what happens, what to bring, common questions, and how to prepare.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"}, "datePublished": "2026-03-28", "dateModified": "2026-03-29", "mainEntityOfPage": "https://341meeting.com/"}, {"@type": "HowTo", "name": "Section 341 Meeting of Creditors", "step": [{"@type": "HowToStep", "position": 1, "text": "The bankruptcy trustee - a court-appointed person who reviews your case", "name": "The bankruptcy trustee"}, {"@type": "HowToStep", "position": 2, "text": "Your attorney - if you have one (and you should)", "name": "Your attorney"}, {"@type": "HowToStep", "position": 3, "text": "Creditors or their attorneys - they have the right to attend, but rarely do in straightforward cases", "name": "Creditors or their attorneys"}, {"@type": "HowToStep", "position": 4, "text": "The U.S. Trustee's office - a branch of the Department of Justice that monitors bankruptcy cases for fraud or abuse", "name": "The U.S"}, {"@type": "HowToStep", "position": 5, "text": "Other debtors - in many courts, several meetings are scheduled back-to-back in the same room or on the same Zoom call", "name": "Other debtors"}, {"@type": "HowToStep", "position": 6, "text": "Identity verification. The trustee checks your government-issued photo ID and proof of Social Security number. This is required to prevent fraud.", "name": "Identity verification"}, {"@type": "HowToStep", "position": 7, "text": "Oath. You are placed under oath. Everything you say is under penalty of perjury. This is why accuracy on your petition matters.", "name": "Oath"}, {"@type": "HowToStep", "position": 8, "text": "Standard questions. The trustee asks a set of routine questions: Did you list all your assets? Is your income accurate? Have you transferred property recently? Did you read and sign your petition?", "name": "Standard questions"}, {"@type": "HowToStep", "position": 9, "text": "Follow-up questions. If something in your schedules raises a flag - an asset that seems undervalued, a recent large payment, unusual transactions - the trustee may ask more detailed questions.", "name": "Follow-up questions"}]}, {"@type": "SiteNavigationElement", "name": "BTN Network", "url": ["https://1328f.com", "https://1328f.org", "https://automaticstay.org", "https://341meeting.org", "https://523a.org", "https://109g.org", "https://727a8.com", "https://meanstest.org", "https://chapter7vs13.org", "https://howtofilebankruptcy.org"]}]}
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <!-- aggressive-interlink:lang-en -->
@@ -365,7 +344,7 @@
 <p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
 </div>
 <div style="background:var(--surface);border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:0 auto 1rem">
-<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.</p>
+<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
